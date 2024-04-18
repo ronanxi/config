@@ -1,0 +1,22 @@
+[window]
+
+[font]
+normal = {family="JetBrains Mono", style="Regular"}
+size = 16
+
+bold = {family="JetBrains Mono", style="Regular"}
+
+italic = {family="JetBrains Mono", style="Regular"}
+ 
+bold_italic = {family="JetBrains Mono", style="Regular"}
+
+
+[colors.primary]
+
+foreground = "#ffffff"
+background = "#1e1e1e"
+
+
+
+
+
