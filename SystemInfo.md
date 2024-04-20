@@ -21,7 +21,7 @@
 
 ### Fresh Install [Arch Linux]
 
-yay -S sway foot i3status nautilus-gnome-disks polkit-gnome fish ttf-nerd-fonts-symbols ttf-fira-code fastfetch neovim sublime-text tmux papirus-icon-theme nwg-look kvantum qt5ct qt6ct starship brightnessctl xorg-xwayland xorg-xhost obsidian bitwarden qbittorrent hyprpicker grimshot man ttf-font-awesome firefox google-chrome clang evince timeshift ristretto inkscape npm yarn nodejs libreoffice-still ranger htop alacritty xdg-desktop-portal-gtk wayland-protocols ttf-jetbrains-mono-nerd ttf-jetbrains-mono meson ninja lite-xl min-browser
+yay -S sway foot i3status nautilus-gnome-disks polkit-gnome fish ttf-nerd-fonts-symbols ttf-fira-code fastfetch neovim sublime-text tmux papirus-icon-theme nwg-look kvantum qt5ct qt6ct starship brightnessctl xorg-xwayland xorg-xhost obsidian keepassxc qbittorrent hyprpicker grimshot man ttf-font-awesome firefox google-chrome clang evince timeshift ristretto inkscape npm yarn nodejs libreoffice-still ranger htop alacritty xdg-desktop-portal-gtk wayland-protocols ttf-jetbrains-mono-nerd ttf-jetbrains-mono meson ninja lite-xl min-browser
 
 ## install and setup wmenu from source [https://git.sr.ht/~adnano/wmenu]
 
@@ -65,3 +65,4 @@ export XDG_CURRENT_DESKTOP=sway [add this to your bashrc]
 > [systemctl --user restart xdg-desktop-portal-gtk]
 
 gsettings set org.gnome.desktop.interface color-scheme 'prefer-dark' [run in terminal]
+
